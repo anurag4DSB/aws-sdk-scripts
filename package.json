@@ -1,0 +1,15 @@
+{
+  "name": "aws-sdk-scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/anurag4DSB/aws-sdk-scripts",
+  "author": "anurag4DSB <anurag.213@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.802.0",
+    "chalk": "^4.1.0",
+    "eslint": "^7.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "yargs": "^16.1.1"
+  }
+}

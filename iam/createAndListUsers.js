@@ -13,6 +13,8 @@ const REGION = argv.region || 'us-east-1'
 const SIGNATUREVERSION = argv.signatureVersion || 'v4';
 const SESSIONTOKEN = argv.sessionToken || null;
 
+console.log(`!!!!!!!!!!!!!!!!!!!!!!!!!!!!!${SESSIONTOKEN}`);
+
 const iamClientParams ={
     apiVersion: { iam: '2010-05-08' },
     endpoint: ENDPOINT,

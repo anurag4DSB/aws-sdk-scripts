@@ -11,6 +11,7 @@
     "eslint": "^7.2.0",
     "eslint-plugin-import": "^2.22.1",
     "jsonwebtoken": "^8.5.1",
+    "level": "~5.0.1",
     "yargs": "^16.1.1"
   }
 }
